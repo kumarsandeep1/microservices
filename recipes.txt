@@ -4,3 +4,4 @@ First recipe
 second recipe
 
 some new recipe
+Some non veg recipe
